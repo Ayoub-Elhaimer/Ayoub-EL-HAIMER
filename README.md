@@ -13,6 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 ![Git](https://img.shields.io/badge/Git-red?logo=git)
+![React](https://img.shields.io/badge/React-blue?logo=react)
 
 📫 Reach me: ayoubelhaimer75@gmail.com  
 🌐 LinkedIn: [linkedin.com/in/ayoub-el-haimer](http://linkedin.com/in/ayoub-el-haimer)
